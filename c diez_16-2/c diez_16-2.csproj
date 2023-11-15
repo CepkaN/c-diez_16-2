@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>c_diez_16_2</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="c dies_16_lib">
+      <HintPath>..\..\c dies_16_lib\c dies_16_lib\bin\Debug\c dies_16_lib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
